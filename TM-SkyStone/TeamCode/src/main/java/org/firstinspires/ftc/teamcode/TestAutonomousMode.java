@@ -77,8 +77,7 @@ import org.firstinspires.ftc.robotcore.external.navigation.Orientation;
 public class TestAutonomousMode extends LinearOpMode {
 
     // Declare OpMode members.
-    // AutonomousEngine autonomousEngine = new AutonomousEngine();
-    RobotHardware robot = new RobotHardware();
+    // AutonomousEngine autonomousEngine = new AutonomousEngine(
 
     private BNO055IMU imu;
 
